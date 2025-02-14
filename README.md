@@ -41,7 +41,7 @@ pip install -r Requirements.txt
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/disease-outbreak-prediction.git
+   git clone https://github.com/MVENKATESH786/Disease-outbreak-prediction-using-Machine-Learning.git
    cd disease-outbreak-prediction
    ```
 
